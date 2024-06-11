@@ -1,5 +1,5 @@
 
-```markdown
+
 # Flipkart Phones Scraper
 
 This repository contains a Node.js script that scrapes phone details from Flipkart and saves the data to an Excel file.
@@ -78,5 +78,4 @@ If you encounter issues, try the following steps:
 
 For further assistance, feel free to open an issue on GitHub.
 
-```
 
