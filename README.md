@@ -19,7 +19,7 @@ This repository contains a Node.js script that scrapes phone details from Flipka
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/sriram1224/flipkart_WebScrapping.git
+    git clone https://github.com/sriram1224/flipkart_WebScapping.git
     cd flipkart_WebScrapping
     ```
 
